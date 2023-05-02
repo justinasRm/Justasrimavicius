@@ -18,9 +18,6 @@ I'm a Frontend developer with personal developing and implementing applications 
 Based in Lithuania.
 
 <br />
-Cant wait for the next React, MUI, NodeJS - beeing able to learning something new and stay on top of the game is what drives me.
-<br />
-<br />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Justasrimavicius&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Justinas Rimavicius Github Stats">
 <br />
